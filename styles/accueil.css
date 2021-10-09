@@ -1,0 +1,32 @@
+body
+{
+    background-color: #12f0cb;
+}
+
+header nav a.navbar-brand
+{
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+
+nav.navbar li.nav-item a.nav-link
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+    color: white;
+}
+
+nav.navbar li.nav-item a.nav-link:hover
+{
+    background-color: rgb(102, 211, 178);
+}
+
+div.banner-image
+{
+    background-image: url("https://st4.depositphotos.com/8211188/24990/i/450/depositphotos_249902788-stock-photo-abstract-technology-and-innovation-background.jpg");
+    background-size: cover;
+}
+h2{
+    color: black;
+}
